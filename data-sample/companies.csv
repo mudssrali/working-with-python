@@ -1,0 +1,116 @@
+Company,Market(s),Status,Founded,IPO/Exit Year,Years to Exit,Curent Age (years),Revenue (B),Valuation (B),Private Funding (M),Headcount
+Activision Blizzard,Computer Games,IPO,1979,1993,14,44,$7.0,$60.0,$0,9200
+Adobe,"Creative Marketing, Business",IPO,1982,1986,4,41,$13.0,$230.0,$3,27000
+ADP,Human Resources,IPO,1949,1961,12,74,$15.0,$70.0,$0,60000
+Allscripts,Healthcare,IPO,1986,1999,13,37,$1.7,$1.7,$0,8500
+Alphabet,Internet,IPO,1998,2004,6,25,$160.0,"$1,550.0",$36,130000
+Amdocs,Telecommunications,IPO,1982,1998,16,41,$4.0,$8.0,$0,30000
+Atlassian,Software Development,IPO,2002,2015,13,21,$3.8,$50.0,$210,5700
+Autodesk,3D Design,IPO,1982,1985,3,41,$4.0,$56.0,$0,13000
+BEA Systems,Infrastructure Software,IPO + Acquisition,1995,1997,2,28,$2.0,$10.0,$50,5500
+Blackbaud,Non-Profit Fundraising,IPO,1983,2004,21,40,$1.0,$2.5,$0,3500
+BMC,ITSM,IPO + Acquisition,1980,1988,8,43,$3.2,$8.5,$0,6750
+Bungie,Computer Games,Private,1991,2000,9,32,$1.0,$1.0,$100,1000
+Business Objects,Business Intelligence,IPO + Acquisition,1990,1994,4,33,$1.5,$7.0,$0,6500
+CA,ERP and Business Apps,IPO + Acquisition,1976,1987,11,47,$4.5,$19.0,$81,43530
+Cadence,Electronic Design Automation,IPO,1982,1987,5,41,$2.6,$35,$0,8100
+Capcom,Computer Games,IPO,1979,2013,34,44,$1.0,$7.0,$12,3000
+Cerner,Healthcare,IPO,1979,1986,7,44,$5.7,$22.0,$0,26000
+Citrix,App and Desktop Virtualization,PE / Acquired,1989,1995,6,34,$3.5,$14.0,$20,11000
+Cloudera,Big Data,IPO,2008,2017,9,15,$1.0,$4.0,"$1,040",4000
+Cognos,Business Intelligence,IPO + Acquisition,1969,1986,17,54,$1.0,$5.0,$0,3500
+Coinbase,Crypto Platform,IPO,2012,2021,9,9,$3.0,$80.0,"$1,400",2000
+Concur,Expense Management,IPO + Acquisition,1993,1998,5,30,$2.0,$8.3,$4,9500
+CoreLogic,Real Estate / Finance,IPO PE,1991,2010,21,30,$1.7,6,$25,5100
+Cvent,Events Platform,Acquired,1999,2016,17,24,$1.0,$1.6,$150,4000
+Dassault Systèmes,3D Design,IPO,1981,1996,15,42,$4.2,$50.0,$0,17000
+Docusign,Electronic Signing,IPO,2003,2018,15,20,$1.8,$50.0,$536,4000
+Dropbox,File Storage,IPO,2007,2018,11,16,$2.0,$8.0,"$1,700",4000
+Electronic Arts,Computer Games,IPO,1983,1989,6,40,$5.5,$37.0,$2,25000
+Epic,Healthcare,Private,1979,-,-,44,$3.0,$5.0,$0,4000
+Epic Games,Computer Games,Private,1991,-,-,32,$4.0,$32.0,"$2,000",8700
+Epicor,ERP and Business Apps,IPO + Acquisition,1972,2011,39,51,$1.0,$4.7,$6,4250
+Esri,Geographic Information System,Private,1969,,-,54,$1.5,$6.0,$0,5000
+Facebook,Internet,IPO,2004,2012,8,19,$80.0,$860.0,"$16,100",35000
+FICO,Credit Scoring,IPO,1956,1987,31,67,$1.2,$12.5,$0,4000
+GungHo,Computer Games,IPO,1998,2014,16,25,$1.0,$2.5,$0,400
+Hubspot,CRM + Marketing Automation,IPO,2006,2014,8,17,$1.0,$18.0,$100,4500
+Infor,ERP and Business Apps,IPO + Acquisition,2002,2020,18,21,$4.0,$13.0,$304,17000
+Informatica,Data Integration,IPO + Acquisition,1993,1999,6,30,$1.4,$9.0,$0,5250
+Informix,Database,IPO + Acquisition,1980,1986,6,43,$1.0,$2.0,$0,3000
+Intuit,Tax Software,IPO,1983,1993,10,40,$8.0,$120.0,$19,12000
+JDA/Blue Yonder,SCM,Acquired,1985,1996,11,38,$1.0,$5.5,$575,5300
+Kakao,Computer Games,IPO,1995,2010,15,28,$4.0,$32.6,"$1,600",10000
+King.com,Computer Games,IPO + Acquisition,2003,2014,11,20,$1.0,$5.9,$84,2000
+Krafton,Computer Gaming,IPO,2007,2021,14,14,$1.0,$30.0,$550,1400
+LogMeln,Remote Work,IPO + Acquisition,2003,2009,6,20,$1.2,$4.3,$30,4200
+Mailchimp,Email Marketing,Private,2001,-,-,22,$1.0,$10.0,$0,1100
+Mentor Graphics,Electronic Design Automation,IPO + Acquisition,1981,1984,3,42,$1.3,$4.5,$0,4500
+Micro Focus,Middleware,IPO,1976,2005,29,47,$3.3,$4.5,$0,11000
+Microsoft,Productivity Software,IPO,1975,1986,11,48,$150.0,"$1,900.0",$1,156000
+Mixi,Internet,IPO,1999,2006,7,24,$1.1,$2.0,$1,1037
+MuleSoft,Middleware,IPO + M&A,2006,2017,11,17,$1.0,$20.0,$260,2100
+NCSoft,Computer Games,IPO,1997,2010,13,26,$1.5,$19.0,$0,4000
+NetEase,Computer Games,IPO,1997,2000,3,26,$9.0,$76.8,$0,20000
+Nexon,Computer Games,IPO,1994,2011,17,29,$2.4,$27.0,$46,6400
+Niantic,Computer Games,Private,2010,-,-,11,$1.0,$15.0,$470,750
+NICE,Security,IPO,1986,1991,5,37,$1.6,$15.0,$0,6000
+Nintendo,Computer Games,IPO,1889,1963,74,134,$12.3,$74.9,$0,6200
+NortonLifeLock fka Symantec,Cybersecurity,IPO,1982,1989,7,41,$2.6,$12.0,"$1,200",12000
+Novell,Business Software,IPO + Acquisition,1979,1985,6,44,$1.0,$1.2,$0,5500
+Nuance,Speech Recognition,IPO,1992,2000,8,31,$2.0,$10.0,$0,7500
+OpenText,Enterprise Content Management,IPO,1991,1996,5,32,$3.0,$11.0,$0,13500
+Oracle,Database + Apps,IPO,1977,1986,9,46,$39.0,$230.0,$0,135000
+Palantir,National Security,IPO,2003,2020,17,20,$1.3,$23.0,"$2,600",2500
+Pegasystems,Business Process Management,IPO,1983,1996,13,40,$1.0,$10.0,$0,6000
+Proofpoint,Cybersecurity,IPO,2002,2012,10,21,$1.0,$6.0,$85,3500
+PTC,CAD and PLM,IPO,1985,1989,4,38,$1.5,$10.8,$0,7000
+Olik,Business Intelligence,IPO + Acquisition,1993,2016,23,30,$1.0,$3.0,$13,2500
+Qualtrics,Surveys,IPO + Acquisition,2002,2018,16,21,$1.0,$8.0,$400,3500
+RealPage,Property Management,IPO,1998,2010,12,25,$1.0,$6.0,$86,6500
+Red Hat,Middleware,IPO + Acquisition,1993,1999,6,30,$5.0,$32.0,$25,15000
+RingCentral,Cloud Communications,IPO,1999,2013,14,24,$1.0,$24.0,$44,4500
+Riot,Computer Games,Acquired,2006,2015,9,17,$1.5,$21.0,$21,2500
+Roblox,Computer Games,Upcoming IPO,2004,2021,17,19,$2.0,$29.5,$855,2500
+Sage,ERP and Business Apps,IPO + Acquisition,1981,1989,8,42,$2.0,$7.0,$0,15430
+Salesforce,CRM and Business Apps,IPO,1999,2004,5,24,$22.0,$200.0,$64,50000
+RealPage,Property Management,IPO,1998,2010,12,25,$ 1.0,$ 6.0,$ 86,6500
+Red Hat,Middleware,IPO + Acquisition,1993,1999,6,30,$ 5.0,$ 32.0,$ 25,15000
+RingCentral,Cloud Communications,IPO,1999,2013,14,24,$ 1.0,$ 24.0,$ 44,4500
+Riot,Computer Games,Acquired,2006,2015,9,17,$ 1.5,$ 21.0,$ 21,2.5
+Roblox,Computer Games,Upcoming IPO,2004,2021,17,19,$ 2.0,$ 29.5,$ 855,2500
+Sage,ERP and Business Apps,IPO + Acquisition,1981,1989,8,42,$ 2.0,$ 7.0,$ 0,15430
+Salesforce,CRM and Business Apps,IPO,1999,2004,5,24,$ 22.0,$ 200.0,$ 64,50000
+SAP,ERP and Business Apps,IPO,1972,1988,16,51,$ 32.0,$ 170.0,"$ 1,300",100000
+SAS Institute,Analytics,Private,1976,,-,47,$ 3.5,$ 10.0,$ 0,14000
+ServiceNow,IT Service Management,IPO,2003,2012,9,20,$ 4.0,$ 100.0,$ 84,13000
+Shopify,eCommerce Platform,Direct Listing IPO,2006,2017,11,17,$ 4.0,$ 130.0,$ 122,8000
+Slack,Chat / Messaging,IPO + Acquisition,2009,2019,10,14,$ 1.0,$ 30.0,"$ 1,400",2800
+Snap,Social Network,IPO,2011,2017,6,10,$ 2.0,$ 80.0,"$ 4,900",5000
+Snowflake,Database,IPO,2012,2020,8,11,$ 2.0,$ 40.0,"$ 1,400",5200
+SolarWinds,Network Monitoring,IPO + Acquisition,1999,2009,10,24,$ 1.0,$ 5.0,$ 8,2500
+Solera,Auto Insurance Claims Software,IPO + Acquisition,2005,2007,2,18,$ 1.0,$ 4.0,$ 0,1200
+Splunk,Monitoring and Logging,IPO,2003,2012,9,20,$ 2.5,$ 32.0,$ 40,6500
+Square Enix,Computer Games,IPO,1975,2004,29,48,$ 2.6,$ 7.0,$ 144,4601
+Stripe,Internet,Private,2010,,-,13,$ 10.0,$ 120.0,"$ 2,200",3300
+Supercell,Gaming,Acquired,2010,2016,6,13,$ 2.5,$ 15.0,$ 143,900
+Sybase,Database,IPO + Acquisition,1984,1991,7,39,$ 1.1,$ 6.0,$ 0,5000
+Synopsys,Electronic Design Automation,IPO,1986,1992,6,37,$ 3.8,$ 35,$ 0,14500
+Tableau,Business Intelligence,IPO,2003,2013,10,20,$ 1.8,$ 20.0,$ 15,5200
+Take Two,Computer Games,IPO,1993,1997,4,30,$ 3.4,$ 23.1,$ 0,4.8
+TEMENOS,Core Banking,IPO,1993,2001,8,30,$ 1.0,$ 10.0,$ 0,7500
+Tencent,Internet,IPO,1998,2004,6,25,$ 60.0,$ 750.0,$ 6.600,63000
+Teradata,Data Warehouse,Acquisition + IPO,1979,2007,28,44,$ 2.0,$ 2.2,$ 0,10000
+TIBCO,Middleware,IPO,1997,1999,2,26,$ 1.0,$ 3.0,$ 0,4200
+Trend Micro,Cybsersecurity,IPO,1988,1999,11,35,$ 1.6,$ 8.4,$ 0,6750
+Twilio,Developer APIs,IPO,2008,2016,8,15,$ 1.7,$ 44.0,$ 263,3700
+Twitch,Internet,Acquired,2011,2014,3,12,$ 1.0,$ 15.0,$ 35,10000
+Twitter,Internet,IPO,2006,2013,7,15,$ 4.0,$ 62.0,"$ 1,500",6500
+Ubisoft,Computer Games,IPO,1986,1996,10,37,$ 1.5,$ 9.7,$ 770,18045
+Ultimate Software,HCM,IPO + Acquisition,1990,2019,29,31,$ 1.0,$ 15.0,$ 19,5500
+Valve corporation,Computer Games,Private,1996,-,-,27,$ 1.0,$ 10.0,$ 5,900
+Veeam,Data Protection .,PE / Acquired,2006,2020,14,17,$ 1.0,$ 5.0,$ 500,4000
+Veeva,Life Sciences,IPO,2007,2013,6,16,$ 1.1,$ 45.0,$ 7,4000
+Veritas,Backup and Storage,IPO + Acquisitions,1983,1993,10,40,$ 2.5,$ 10.0,$ 0,6000
+VMware,Server Virtualization / Management,IPO,1998,2007,9,25,$ 13.0,$ 70.0,393,31000
+Wix,Website Builder,IPO,2006,2013,7,15,$ 1.0,$ 15.0,$ 58,4000
